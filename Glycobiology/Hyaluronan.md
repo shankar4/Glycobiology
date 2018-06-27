@@ -1,0 +1,1 @@
+It is a naturally occuring GAG that finds extensive surgical use. As it is viscoelastic, it has lubricating and cushioning attributes that are useful during eye surgery. It has antiadhesvie properties, useful for postsurgical wound healing. It is also used as a tissue filler in cosmetic surgery. 
