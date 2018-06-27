@@ -6,4 +6,4 @@ A monosaccharide is a carbohydrate that cannot be hydrolyzed into a simpler form
 
 Symbol Nomenclature for Glycans (SNFG): [Ref](https://www.ncbi.nlm.nih.gov/glycans/snfg.html). Each symbol represents a specific monosacch. Software tools: 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/SNFG%20Example.jpg)
