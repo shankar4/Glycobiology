@@ -10,10 +10,17 @@ A 3D-SNFG example is shown below:
 
 ![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/SNFG%20Example.jpg)
 
-Major classes: Glycans are defined as per linkage to an aglycone (protein or lipid). A glycoprotein is a protein that carries one or more glycans attached to a polypeptide backbone, usually via N- or O- linkages. A mucin is a large glycoprotein with many clustered O-glycans. A proteoglycan is a glycoconjugate with one or more GAG (glycosaminoglycan) chains attached to a core protein. Distinction between two (glycoprotein and proteoglycan) is arbitrary. 
+Major classes: Glycans are defined as per linkage to an aglycone (protein or lipid). A glycoprotein is a protein that carries one or more glycans attached to a polypeptide backbone, usually via N- or O- linkages. A mucin is a large glycoprotein with many clustered O-glycans. A proteoglycan is a glycoconjugate with one or more GAG (glycosaminoglycan) chains attached to a core protein. Distinction between two (glycoprotein and proteoglycan) is arbitrary. Polysialic acid, an anionic polysacch and Hyaluronan are also found as the capsular polysacchs of some pathogenic bacteria. GAGs, typically linear,  (except Hyaluronan) have sulfate esters in place of amino or hydroxyl groups. 
 
 Common glycan classes are shown below:
 <p align="center">
   <img src="https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/Animal%20Glycans.png" width="650"/>
 </p>
 
+Genome Encoding: Glycan structures are secondary gene products, not directly encoded in the Genome. A few percent of known genes produce enzymes and transporters involved in glycan biosynthesis and assembly, for post-translational alteration of proteins or glycosylation of core lipids. Glycolipids are either neutral or anionic. One cannot fully predict the precise structure or expression level of glycans produced by a given cell type. Environmental cues have dramatic impact. **Microheterogeneity** - a given polypeptide encoded by a single gene can exist in many 'glycoforms.' Role of this heterogeneity is not clear - may be to evade microbes and parasites, each of which binds specifically to certain glycan structures. 
+
+Glycomics: Glycome is far more complex than the genome or proteome. Reasons: Structural diversity, microheterogeneity, and dynamic (and specific) changes that occur during development, differentiation, metabolic changes, aging, malignancy, inflammation, of infection. There are also intra and inter-species differences. *There is as yet no reliable indirect route toward elucidating the glycome, other than by actual analysis using an array of methods*.
+
+Biological Roles of Glycans: Diverse, from subtle to essential for the development, growth, function, or survival of an organism. Two main types: (1) structural and modulatory, and (2) recognition of glycans by specific proteins. Regarding lectins (proteins that are highly specific for sugar motifs): monovalent binding has low affinity, but high specificity is achieved by high avidity. N- and O-glycans seem to be more recently evolved. 
+
+Glycans in medicine and biotechnology: Many natural bioactive molecules are glycoconjugates. Attached glycans have dramatic effect on biosynthesis, stability, action, and turnover of these molecules in intact organisms. Glycoproteins, which include antibodies, enzymes, and hormones, are the major products of the biotech industry. Several human disease states involve changes in glycan biosynthesis - of diagnostic and/or therapeutic significance. 
