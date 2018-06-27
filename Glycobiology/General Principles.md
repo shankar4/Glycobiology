@@ -4,6 +4,6 @@ From The first seven chapters of "Essentials of Gycobiology", 3rd edition, Varki
 
 A monosaccharide is a carbohydrate that cannot be hydrolyzed into a simpler form. Two types of monosacchs, based on where a carbonyl group is attached: Aldoses (at the end of the carbon chain) and ketones (at an inner carbon). Ring forms of monosacchs are typical in Oligosacchs, a linear or branched chain of monosacchs. Polysacch refers to large glycans with repeating oligosacch motifs. Glycans constitute a large portion of glycoconjugates. Cells are covered with a dense array of sugars (<b>glycocalyx</b>). Monosacchs can be linked together in many more ways Vs AAs or nucleotides. E.g., 3 different nucleotides or AAs can only generate 6 trimers (ABC, ACB, BAC, BCA, CAB, and CBA), just three different hexoses (a monosacch) could theoretically produce 1056 to 27648 (24 x 24 x 24 x 2 - 24?) unique trisacchs. 
 
-Symbol Nomenclature for Glycans (SNFG): [Ref](https://www.ncbi.nlm.nih.gov/glycans/snfg.html). Each symbol represents a specific monosacch. Software tools: 
+Symbol Nomenclature for Glycans (SNFG): [Ref](https://www.ncbi.nlm.nih.gov/glycans/snfg.html). Each symbol represents a specific monosacch. One software tool [ref:](http://glycam.org/docs/othertoolsservice/2016/06/03/3d-symbol-nomenclature-for-glycans-3d-snfg/). 3D-SNFG example is shown below: 
 
 ![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/SNFG%20Example.jpg)
