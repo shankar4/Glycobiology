@@ -14,7 +14,6 @@ Major classes: Glycans are defined as per linkage to an aglycone (protein or lip
 
 Common glycan classes are shown below:
 <p align="center">
-  <img src="https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/Animal%20Glycans.bmp" width="650"/>
+  <img src="https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/Animal%20Glycans.png" width="650"/>
 </p>
 
-![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/Animal%20Glycans.png)
