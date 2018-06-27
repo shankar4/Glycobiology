@@ -24,3 +24,5 @@ Glycomics: Glycome is far more complex than the genome or proteome. Reasons: Str
 Biological Roles of Glycans: Diverse, from subtle to essential for the development, growth, function, or survival of an organism. Two main types: (1) structural and modulatory, and (2) recognition of glycans by specific proteins. Regarding lectins (proteins that are highly specific for sugar motifs): monovalent binding has low affinity, but high specificity is achieved by high avidity. N- and O-glycans seem to be more recently evolved. 
 
 Glycans in medicine and biotechnology: Many natural bioactive molecules are glycoconjugates. Attached glycans have dramatic effect on biosynthesis, stability, action, and turnover of these molecules in intact organisms. Glycoproteins, which include antibodies, enzymes, and hormones, are the major products of the biotech industry. Several human disease states involve changes in glycan biosynthesis - of diagnostic and/or therapeutic significance. 
+
+Table 1.2 in the reference lists "Universal" principles of glycobiology. 
