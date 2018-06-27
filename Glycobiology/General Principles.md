@@ -11,3 +11,6 @@ A 3D-SNFG example is shown below:
 ![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/SNFG%20Example.jpg)
 
 Major classes: Glycans are defined as per linkage to an aglycone (protein or lipid). A glycoprotein is a protein that carries one or more glycans attached to a polypeptide backbone, usually via N- or O- linkages. A mucin is a large glycoprotein with many clustered O-glycans. A proteoglycan is a glycoconjugate with one or more GAG (glycosaminoglycan) chains attached to a core protein. Distinction between two (glycoprotein and proteoglycan) is arbitrary. 
+
+Common glycan classes are shown below:
+![alt text](https://github.com/shankar4/Glycobiology/blob/master/Glycobiology/Common%20Glycan%20Classes.pptx)
