@@ -21,6 +21,12 @@ HA has multiple roles in early development, tissue organization, and cell prolif
 
 Four proteoglycan genes with homologous G1 domains interact with HA (versican, neurocan, breviacan, and aggrecan). V is found in soft tissues and is important in **vascular biology**. N and B in brain tissue; V and A anchor to HA in tissues  with similar lin protein mechanisms. Thus, HA acts as a **scaffold** on which to build proteoglycan aggregate structures adapted to diverse tissue functions. 
 
+HA-Binding proteins with link modules: They belong to "hyaluronan and proteoglycan link proteins" (HAPLNs). They are expressed in many tissues. Four cell-surface receptors are expressed on endothelial cells and activated macrophages: CD44, LYVE-1, HARE/STABILIN-2, and STABILIN-1. They have EC domains with one link module. Other HA-binding proteins are secreted and include the aggrecan superfamily (versican, neurocan, breviacan, and aggrecan) and TNF genet 6 (TSG-6). 
 
+HA expression increases cell adhesion and locomotions as it is expressed abundantly during morphogenesis and in both physiological and pathological invasive processes. CD44 and RHAMM are two major HA-binding proteins on cell surface. Changes in CD44 expression are associated with different tumors and metastatic spread. Interactions of CD44 and RHAMM with HA can influence cell survival.  Their inhibition by hyaluronan oligomers and soluble hyaluronan-binding proteins suggests novel therapeutic approaches for treating **cancer**.  
+
+HA as a therapeutic agent: short-term relief in OA; cataract surgery; as subdermal injection to fill wrinkles. 
+
+Low MW HA (~10<sup>3</sup>–10<sup>4</sup> Da)) have strong biological activities via altering selective signaling pathways. In cancel: HA induces apoptosis and inhibit tumor growth in vivo (by boosting immune responses and altering new blood vessel growth). Now, recomb forms of HA with different MW is feasible. 
 
 
