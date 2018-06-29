@@ -1,0 +1,1 @@
+N-Glycans: Biosynthesis of N-glycans is most complex in mammals. They are covalently attached to protein at Asn residues by an N-glycosidic bond. Mouse mutants have helped gain insight on the functional aspects. Deletion of *Mgat1* gene that encodes MGAT1 leads to embryonic death. They are important in **retaining** growth factor and cytokine receptors at the cell suface. 
